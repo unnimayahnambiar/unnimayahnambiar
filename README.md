@@ -61,8 +61,8 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-UnnimayaNambiar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unnimaya-nambiar/)
-[![Gmail](https://img.shields.io/badge/Gmail-unnimaya.email@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unnimayahnambiar55@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-UnnimayaH-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unnimayah/)
+[![Gmail](https://img.shields.io/badge/Gmail-unnimayahnambiar55@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unnimayahnambiar55@gmail.com)
 
 ---
 
